@@ -1,0 +1,14 @@
+current directory: C:/api_rails/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.7/ext/nio4r
+C:/Ruby27-x64/bin/ruby.exe -I C:/Ruby27-x64/lib/ruby/2.7.0 -r ./siteconf20210614-13620-mo886m.rb extconf.rb --with-cflags\=-std\=c99
+
+current directory: C:/api_rails/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.7/ext/nio4r
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: C:/api_rails/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.7/ext/nio4r
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: C:/api_rails/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.7/ext/nio4r
+make "DESTDIR=" install
+make: Nothing to be done for 'install'.
